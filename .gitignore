@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+tmp.lang
+traces/
+.cursor/
+.venv/
+venv/
