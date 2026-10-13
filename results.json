@@ -1,0 +1,259 @@
+{
+  "rows": [
+    {
+      "name": "tc01",
+      "category": "lexical",
+      "detected": true,
+      "attempts": [
+        true
+      ],
+      "final_success": true,
+      "total_attempts": 1,
+      "elapsed": 1.9370145797729492
+    },
+    {
+      "name": "tc02",
+      "category": "lexical",
+      "detected": true,
+      "attempts": [
+        true
+      ],
+      "final_success": true,
+      "total_attempts": 1,
+      "elapsed": 1.4793267250061035
+    },
+    {
+      "name": "tc03",
+      "category": "lexical",
+      "detected": true,
+      "attempts": [
+        true
+      ],
+      "final_success": true,
+      "total_attempts": 1,
+      "elapsed": 1.3559305667877197
+    },
+    {
+      "name": "tc04",
+      "category": "lexical",
+      "detected": true,
+      "attempts": [
+        true
+      ],
+      "final_success": true,
+      "total_attempts": 1,
+      "elapsed": 1.5099446773529053
+    },
+    {
+      "name": "tc05",
+      "category": "lexical",
+      "detected": true,
+      "attempts": [
+        false,
+        true
+      ],
+      "final_success": true,
+      "total_attempts": 2,
+      "elapsed": 2.071434259414673
+    },
+    {
+      "name": "tc06",
+      "category": "lexical",
+      "detected": true,
+      "attempts": [
+        true
+      ],
+      "final_success": true,
+      "total_attempts": 1,
+      "elapsed": 1.3390488624572754
+    },
+    {
+      "name": "tc07",
+      "category": "syntax",
+      "detected": true,
+      "attempts": [
+        true
+      ],
+      "final_success": true,
+      "total_attempts": 1,
+      "elapsed": 0.8456625938415527
+    },
+    {
+      "name": "tc08",
+      "category": "syntax",
+      "detected": true,
+      "attempts": [
+        false,
+        false,
+        false
+      ],
+      "final_success": false,
+      "total_attempts": 3,
+      "elapsed": 2.8616695404052734
+    },
+    {
+      "name": "tc09",
+      "category": "syntax",
+      "detected": true,
+      "attempts": [
+        true
+      ],
+      "final_success": true,
+      "total_attempts": 1,
+      "elapsed": 1.105391502380371
+    },
+    {
+      "name": "tc10",
+      "category": "syntax",
+      "detected": true,
+      "attempts": [
+        true
+      ],
+      "final_success": true,
+      "total_attempts": 1,
+      "elapsed": 1.3441579341888428
+    },
+    {
+      "name": "tc11",
+      "category": "syntax",
+      "detected": true,
+      "attempts": [
+        true
+      ],
+      "final_success": true,
+      "total_attempts": 1,
+      "elapsed": 0.7598497867584229
+    },
+    {
+      "name": "tc12",
+      "category": "syntax",
+      "detected": true,
+      "attempts": [
+        true
+      ],
+      "final_success": true,
+      "total_attempts": 1,
+      "elapsed": 0.935981035232544
+    },
+    {
+      "name": "tc13",
+      "category": "syntax",
+      "detected": true,
+      "attempts": [
+        true
+      ],
+      "final_success": true,
+      "total_attempts": 1,
+      "elapsed": 0.9292263984680176
+    },
+    {
+      "name": "tc14",
+      "category": "syntax",
+      "detected": true,
+      "attempts": [
+        false,
+        false,
+        false
+      ],
+      "final_success": false,
+      "total_attempts": 3,
+      "elapsed": 3.89223051071167
+    },
+    {
+      "name": "tc15",
+      "category": "semantic",
+      "detected": true,
+      "attempts": [
+        false,
+        false,
+        false
+      ],
+      "final_success": false,
+      "total_attempts": 3,
+      "elapsed": 2.547269344329834
+    },
+    {
+      "name": "tc16",
+      "category": "semantic",
+      "detected": true,
+      "attempts": [
+        true
+      ],
+      "final_success": true,
+      "total_attempts": 1,
+      "elapsed": 0.7609865665435791
+    },
+    {
+      "name": "tc17",
+      "category": "semantic",
+      "detected": true,
+      "attempts": [
+        true
+      ],
+      "final_success": true,
+      "total_attempts": 1,
+      "elapsed": 0.9718196392059326
+    },
+    {
+      "name": "tc18",
+      "category": "semantic",
+      "detected": true,
+      "attempts": [
+        true
+      ],
+      "final_success": true,
+      "total_attempts": 1,
+      "elapsed": 1.1772522926330566
+    },
+    {
+      "name": "tc19",
+      "category": "semantic",
+      "detected": true,
+      "attempts": [
+        true
+      ],
+      "final_success": true,
+      "total_attempts": 1,
+      "elapsed": 0.950702428817749
+    },
+    {
+      "name": "tc20",
+      "category": "semantic",
+      "detected": true,
+      "attempts": [
+        true
+      ],
+      "final_success": true,
+      "total_attempts": 1,
+      "elapsed": 0.819328784942627
+    }
+  ],
+  "summary": {
+    "total": 20,
+    "detected": 20,
+    "fixed": 17,
+    "overall_rate": 85.0,
+    "a1_rate": 80.0,
+    "a12_rate": 85.0,
+    "a123_rate": 85.0,
+    "avg_attempts": 1.0588235294117647,
+    "avg_time": 1.479711401462555,
+    "by_category": {
+      "lexical": {
+        "total": 6,
+        "fixed": 6,
+        "a1": 5
+      },
+      "syntax": {
+        "total": 8,
+        "fixed": 6,
+        "a1": 6
+      },
+      "semantic": {
+        "total": 6,
+        "fixed": 5,
+        "a1": 5
+      }
+    }
+  }
+}
